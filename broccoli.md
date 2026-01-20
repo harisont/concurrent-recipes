@@ -1,5 +1,5 @@
 ---
-title: "Bro-o-co-li, po-o-ta-toes, e-e-e-e-ee-eggs"
+title: "Bro-oc-co-li, po-o-ta-toes, e-e-e-e-e-e-eggs"
 tags: vegetarian
 threads: 2
 time: 60
