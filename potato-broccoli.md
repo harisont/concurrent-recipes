@@ -11,7 +11,7 @@ A complete hot meal. [Better than a vocal warmup](https://harisont.github.io/ass
 
 - broccoli
 - potatoes
-- hard cheese, preferrably grana
+- hard cheese, preferably grana
 - breadcrumbs
 - oil
 - salt
