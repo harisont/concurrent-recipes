@@ -5,6 +5,8 @@ threads: 2
 time: 60
 ---
 
+A complete hot meal. [Better than a vocal warmup](https://harisont.github.io/assets/audio/broccoli.mp3).
+
 ## Ingredients
 
 - broccoli
