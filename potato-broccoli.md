@@ -28,7 +28,7 @@ A complete hot meal. [Better than a vocal warmup](https://harisont.github.io/ass
 ## Steps
 
 1. pre-heat the oven at 200 C
-2. - 1. wash, peel and cut the potatoes into bite sized pieces (if you don't want to throw away the peel, [try turning into a snack while the oven is still hot!]())
+2. - 1. wash, peel and cut the potatoes into bite sized pieces (if you don't want to throw away the peel, [try turning into a snack while the oven is still hot!](https://www.youtube.com/watch?v=srkg2KQpgr8&t=177s))
      2. put the potatoes in a bowl and microwave them for about 5 minutes. If you don't have a microwave, boil them until they start to soften slightly
    - wash and cut the broccoli head into pieces of about the same size of the potato bits
 3. add the broccoli to the bowl and microwave everything for another 5-10 minutes. If you don't have a microwave, you can skip this step
