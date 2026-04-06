@@ -23,13 +23,8 @@ Both subsections and other main sections are allowed, but the latter are discour
 - item n
 
 ## Steps
-- step 1
-
-- step 2, person 1
-- step 2, person 2
-- ...
-- step 2, person n
-
-- ...
-
-- step n
+1. step 1
+2. - step 2, person 1
+   - 1. step 2, person 2 (substep 1)
+     2. step 2, person 2 (substep 2)
+3. ...
